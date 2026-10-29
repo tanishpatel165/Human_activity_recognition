@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pth
+yolov8n-pose.pt
+*.npz
+*.pkl
+tempCodeRunnerFile.py
+Models/Datasets/sensor_HAR/human+activity+recognition+using+smartphones/
